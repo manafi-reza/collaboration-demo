@@ -1,4 +1,4 @@
-# Collaboration Demo Project
+# Collaboration Demo Projects
 
 This project is used to practice Git and GitHub collaboration workflows.
 
